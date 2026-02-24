@@ -1,9 +1,10 @@
 # Project Title 
 
-## Project Title 
-![CI Pipeline](https://github.com/[chandimal-kumara]/[daily-calc]/workflows/CI%20Pipeline/badge.svg)
-![Deploy](https://github.com/[chandimal-kumara]/[daily-calc]/workflows/Deploy%20to%20Production/b
-adge.svg)
+## Build Status
+
+![CI](https://github.com/chandimal-kumara/daily-calc/actions/workflows/ci.yml/badge.svg)
+
+![Deploy](https://github.com/chandimal-kumara/daily-calc/actions/workflows/deploy.yml/badge.svg)
 
 ## Group Information 
 
