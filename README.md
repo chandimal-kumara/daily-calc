@@ -1,5 +1,10 @@
 # Project Title 
 
+## Project Title 
+![CI Pipeline](https://github.com/[chandimal-kumara]/[daily-calc]/workflows/CI%20Pipeline/badge.svg)
+![Deploy](https://github.com/[chandimal-kumara]/[daily-calc]/workflows/Deploy%20to%20Production/b
+adge.svg)
+
 ## Group Information 
 
 - **Student 1:** Kavindu Thathsara - ITBIN-2313-0115 - Role: DevOps/Release Manager
